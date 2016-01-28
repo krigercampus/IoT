@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppClient</string>
+    <string name="title_activity_sensor_client">SensorClient</string>
+</resources>
